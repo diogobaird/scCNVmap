@@ -43,4 +43,4 @@ Public datasets mentioned in the tutorials are not redistributed here. Obtain th
 
 ## License
 
-Repository materials are distributed under the [MIT License](LICENSE).
+The README, tutorials, and bundled repository fixtures are distributed under the [MIT License](LICENSE). The scCNVmap binary release retains its BSD 3-Clause license; see the `LICENSE` file included in each release archive.

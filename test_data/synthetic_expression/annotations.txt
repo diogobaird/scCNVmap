@@ -1,0 +1,2 @@
+cell_1	Microglia/Macrophage
+cell_2	Tumour
