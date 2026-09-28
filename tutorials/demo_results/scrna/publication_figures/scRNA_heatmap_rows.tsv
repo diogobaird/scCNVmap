@@ -1,0 +1,37 @@
+cell	group	role	n_genes_gained	n_genes_lost	n_genes_cnv	cnv_fraction	gain_fraction	loss_fraction	n_chrs_aberrant	status	total_in_group
+R1	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R10	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R11	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R12	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R2	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R3	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R4	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R5	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R6	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R7	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R8	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+R9	Normal	reference	0	0	0	0.0	0.0	0.0	0	Reference	12
+O1	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O10	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O11	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O12	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O13	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O14	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O15	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O16	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O17	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O18	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O19	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O2	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O20	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O21	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O22	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O23	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O24	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O3	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O4	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O5	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O6	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O7	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O8	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24
+O9	Tumor	observation	80	80	160	0.4	0.2	0.2	2	Observation · CNV-high	24

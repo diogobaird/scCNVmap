@@ -1,0 +1,37 @@
+cell	sccnvmap.pred	copykat.pred	cnv_score	prob_aneuploid	section	cnv_score_zscore	cnv_score_pvalue	role	group	prediction	status	total_in_group	region_records
+R1	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R1	diploid	Reference	1	0
+R2	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R2	diploid	Reference	1	0
+R3	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R3	diploid	Reference	1	0
+R4	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R4	diploid	Reference	1	0
+R5	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R5	diploid	Reference	1	0
+R6	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R6	diploid	Reference	1	0
+R7	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R7	diploid	Reference	1	0
+R8	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R8	diploid	Reference	1	0
+R9	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R9	diploid	Reference	1	0
+R10	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R10	diploid	Reference	1	0
+R11	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R11	diploid	Reference	1	0
+R12	diploid	diploid	0.03	0.01	demo	-1.1	0.8	reference	R12	diploid	Reference	1	0
+O1	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O1	aneuploid	Aneuploid prediction	1	400
+O2	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O2	aneuploid	Aneuploid prediction	1	400
+O3	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O3	aneuploid	Aneuploid prediction	1	400
+O4	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O4	aneuploid	Aneuploid prediction	1	400
+O5	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O5	aneuploid	Aneuploid prediction	1	400
+O6	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O6	aneuploid	Aneuploid prediction	1	400
+O7	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O7	aneuploid	Aneuploid prediction	1	400
+O8	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O8	aneuploid	Aneuploid prediction	1	400
+O9	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O9	aneuploid	Aneuploid prediction	1	400
+O10	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O10	aneuploid	Aneuploid prediction	1	400
+O11	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O11	aneuploid	Aneuploid prediction	1	400
+O12	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O12	aneuploid	Aneuploid prediction	1	400
+O13	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O13	aneuploid	Aneuploid prediction	1	400
+O14	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O14	aneuploid	Aneuploid prediction	1	400
+O15	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O15	aneuploid	Aneuploid prediction	1	400
+O16	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O16	aneuploid	Aneuploid prediction	1	400
+O17	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O17	aneuploid	Aneuploid prediction	1	400
+O18	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O18	aneuploid	Aneuploid prediction	1	400
+O19	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O19	aneuploid	Aneuploid prediction	1	400
+O20	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O20	aneuploid	Aneuploid prediction	1	400
+O21	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O21	aneuploid	Aneuploid prediction	1	400
+O22	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O22	aneuploid	Aneuploid prediction	1	400
+O23	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O23	aneuploid	Aneuploid prediction	1	400
+O24	aneuploid	aneuploid	0.82	0.99	demo	3.2	0.001	observation	O24	aneuploid	Aneuploid prediction	1	400

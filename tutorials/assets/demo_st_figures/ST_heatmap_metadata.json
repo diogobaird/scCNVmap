@@ -1,0 +1,35 @@
+{
+  "renderer_version": "2.3",
+  "modality": "ST",
+  "rows": 4,
+  "columns": 2,
+  "matrix_kind": "Signed minimum spot support",
+  "missing_values": 6,
+  "column_axis": "Chromosome-ordered exported event intervals; equal event widths",
+  "row_order": "Exported groups and separate loss/gain rows.",
+  "note": "Sparse group-supported events, not a per-spot or reference-neutral state matrix. Grey denotes no event record.",
+  "status_annotation": "ST event matrix rows are group/direction summaries; per-spot prediction is retained in spatial_cnv_scores.tsv.",
+  "reference_display_policy": "No reference fill applied.",
+  "group_count_labels": "displayed / total exported cells in the group",
+  "source_files": [
+    {
+      "name": "cell_supported_cnv_events.tsv",
+      "sha256": "9e7e950c3d1e1e472138be46ca331903de301556b9bc82d5c77ca12542c07d9a"
+    },
+    {
+      "name": "spatial_cnv_scores.tsv",
+      "sha256": "509cfb10224c2d909eb76e0ba67bb1fe602a6e6747229723084c56cf5b4065c3"
+    }
+  ],
+  "exports": {
+    "width_mm": 183,
+    "png_dpi": 300,
+    "tiff_dpi": 600,
+    "tiff_compression": "LZW",
+    "svg_text": "editable",
+    "heatmap": "raster with vector text/axes",
+    "display_layer": "scRNA uses signed prevalence with square-root contrast; scATAC uses linear chromosome-preserving means; source features retained.",
+    "group_layout": "Minimum group height for label readability; heights do not encode population sizes."
+  },
+  "statistics": "Descriptive visualization; cells are not independent biological replicates; no significance tests."
+}

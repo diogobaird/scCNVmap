@@ -1,0 +1,39 @@
+{
+  "renderer_version": "2.3",
+  "modality": "scATAC",
+  "rows": 36,
+  "columns": 400,
+  "matrix_kind": "Length-weighted direction of reported regions",
+  "missing_values": 0,
+  "column_axis": "Genomic position \u00b7 1-Mb windows over exported intervals",
+  "row_order": "Deterministic CNV-score rank sampling, then within-group Ward clustering of reported-region profiles.",
+  "note": "Reference rows use the source-defined diploid baseline; grey marks missing observation intervals. Status strip follows the exact sccnvmap.pred field; missing predictions are Unknown.",
+  "status_annotation": "Reference = source-defined reference; scATAC statuses use the exact exported sccnvmap.pred field; missing/other values = Unknown.",
+  "reference_display_policy": "scATAC reference rows use the source-defined diploid baseline; observation rows without interval calls remain NaN/grey.",
+  "group_count_labels": "displayed / total exported cells in the group",
+  "source_files": [
+    {
+      "name": "scatac_prediction.txt",
+      "sha256": "e5542c268f69e0eb64471c66725ec9d436b9754d2bb97c3421d1f2c3d4e417e3"
+    },
+    {
+      "name": "scatac_cnv_regions.bed",
+      "sha256": "8e82dbf840550a24de1f282758beaf159eea2b06e5377e8beaa5f566f470399c"
+    },
+    {
+      "name": "scatac_cell_qc.tsv",
+      "sha256": "1fc54be11cc2d9f2b765292e1a5940630f478eaa5d8e321c10a33ef2d7ae77c5"
+    }
+  ],
+  "exports": {
+    "width_mm": 183,
+    "png_dpi": 300,
+    "tiff_dpi": 600,
+    "tiff_compression": "LZW",
+    "svg_text": "editable",
+    "heatmap": "raster with vector text/axes",
+    "display_layer": "scRNA uses signed prevalence with square-root contrast; scATAC uses linear chromosome-preserving means; source features retained.",
+    "group_layout": "Minimum group height for label readability; heights do not encode population sizes."
+  },
+  "statistics": "Descriptive visualization; cells are not independent biological replicates; no significance tests."
+}

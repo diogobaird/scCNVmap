@@ -1,0 +1,11 @@
+{
+  "renderer_version": "2.3",
+  "modality": "scATAC",
+  "display_columns": 400,
+  "source_columns": 400,
+  "aggregation": "linear masked mean within chromosomes; no smoothing or contrast transformation",
+  "window_size_source_features": 1,
+  "source_matrix": "scATAC_heatmap_source.npz",
+  "source_columns_table": "scATAC_heatmap_columns.tsv",
+  "note": "Display-only aggregation; no inference calls or source values were replaced."
+}

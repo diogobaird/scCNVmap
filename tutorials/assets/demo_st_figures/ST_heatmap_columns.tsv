@@ -1,0 +1,3 @@
+chromosome	start	end	dominant_direction
+chr2	1000000	8999999	gain
+chr3	1000000	8999999	loss

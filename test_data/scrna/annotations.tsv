@@ -1,0 +1,9 @@
+cell	group	role
+R1	Normal	reference
+R2	Normal	reference
+R3	Normal	reference
+O1	Tumor	observation
+O2	Tumor	observation
+O3	Tumor	observation
+O4	Tumor	observation
+O5	Tumor	observation

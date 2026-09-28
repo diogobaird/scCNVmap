@@ -1,0 +1,35 @@
+{
+  "renderer_version": "2.3",
+  "modality": "scRNA",
+  "rows": 36,
+  "columns": 400,
+  "matrix_kind": "Discrete cell HMM direction",
+  "missing_values": 0,
+  "column_axis": "Genomic position \u00b7 genes ordered within chromosomes",
+  "row_order": "Within-group Ward clustering; missing values filled with column means for ordering only.",
+  "note": "The figure uses linear means of chromosome-preserving windows; full gene-level calls remain in the downloadable source matrix. Missing calls are grey. Cell ordering does not change calls. Status strip: Reference; observation low burden (<10%); observation CNV-high (>=10%).",
+  "status_annotation": "Reference = source-defined reference; scRNA CNV-high = observation with cnv_fraction >= 0.10; scRNA low burden = observation with cnv_fraction < 0.10.",
+  "reference_display_policy": "No reference fill applied.",
+  "group_count_labels": "displayed / total exported cells in the group",
+  "source_files": [
+    {
+      "name": "cell_cnv_segments.tsv",
+      "sha256": "f12862f9023a4f1b3366746385c3f38ee55c45f76e4b67adea59d010064f0363"
+    },
+    {
+      "name": "cnv_burden.tsv",
+      "sha256": "f9f90faf3af37becada946a210e57e7838f42288ec04b6534e1945d536193738"
+    }
+  ],
+  "exports": {
+    "width_mm": 183,
+    "png_dpi": 300,
+    "tiff_dpi": 600,
+    "tiff_compression": "LZW",
+    "svg_text": "editable",
+    "heatmap": "raster with vector text/axes",
+    "display_layer": "scRNA uses signed prevalence with square-root contrast; scATAC uses linear chromosome-preserving means; source features retained.",
+    "group_layout": "Minimum group height for label readability; heights do not encode population sizes."
+  },
+  "statistics": "Descriptive visualization; cells are not independent biological replicates; no significance tests."
+}

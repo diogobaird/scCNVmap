@@ -1,0 +1,5 @@
+cell	group	direction
+__sccnvmap_auto_reference__ | loss	__sccnvmap_auto_reference__	loss
+__sccnvmap_auto_reference__ | gain	__sccnvmap_auto_reference__	gain
+Observation | loss	Observation	loss
+Observation | gain	Observation	gain
